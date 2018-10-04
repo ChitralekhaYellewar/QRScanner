@@ -16,6 +16,10 @@ It can be mainly used for marketing on your websites.
 
 Barcode Scanning including QR codes is totally based on video capturing that why AVFoundation framework supports the barcode reading feature using real time video capturing.
 
+Here is sample QR code you can use :
+
+![alt text](file:///Users/chitralekha/Downloads/qrcode.png)
+
 ============================================================================================================================
 
 This project is a sample application for QR code scanning using AVFoundation framework of iOS. 
