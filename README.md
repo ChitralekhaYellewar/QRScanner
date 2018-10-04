@@ -24,3 +24,4 @@ we need to have " Privacy - Camera Usage Description " to be added in Info.plist
 
 The demo of project is as shown below:
 
+<a href="https://imgflip.com/gif/2jcn4i"><img src="https://i.imgflip.com/2jcn4i.gif" title="made at imgflip.com"/></a>
