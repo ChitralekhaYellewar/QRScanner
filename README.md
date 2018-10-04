@@ -18,7 +18,6 @@ Barcode Scanning including QR codes is totally based on video capturing that why
 
 Here is sample QR code you can use :
 
-![alt text](file:///Users/chitralekha/Downloads/qrcode.png)
 
 ============================================================================================================================
 
